@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "92ec4dbcea5c4ef469f0742d5088e0781b753cb01b9af23fbf97788b0ed5c178",
-    "signature": "ed25519:9mQ+vpDQEfA0lKf55xoWvcuahYRvMtWpHP1RfQo0jR0yK2flPf0USJBfqnsffI54a6H092o5s4HOHaJQcmOeCA==",
-    "bytes": 889,
-    "published_at": "2026-11-18T05:53:15+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/calc991ex-app-data@ba8b9ad/calc991ex/v2.json"
+    "version": 3,
+    "sha256": "077dc1e487aa09e46cabbf2f5394e736dbbd69f8be5e7d5e819cb9cc1cb29469",
+    "signature": "ed25519:Gh3LNzNwJh5ILyBcVPLfVysxDFF8rVs5hk9vie3muoXbSEKEJOkHu9I/ckvwNN5gTfY44kfiF8mfdoUGqCtcBA==",
+    "bytes": 888,
+    "published_at": "2026-11-18T05:54:37+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/calc991ex-app-data@b2a8f89/calc991ex/v3.json"
 }
